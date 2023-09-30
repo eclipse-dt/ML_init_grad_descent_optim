@@ -9,4 +9,5 @@ Dataset :
 Predictions model:
 
 yield_apple  = w11 * temp + w12 * rainfall + w13 * humidity + b1
+
 yield_orange = w21 * temp + w22 * rainfall + w23 * humidity + b2
