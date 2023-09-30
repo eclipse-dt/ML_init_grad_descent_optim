@@ -12,5 +12,4 @@ yield_apple  = w11 * temp + w12 * rainfall + w13 * humidity + b1
 
 yield_orange = w21 * temp + w22 * rainfall + w23 * humidity + b2
 
-
 This version of the code is for self training porpusoses. You'll find the original full course and ressources at : https://jovian.ml/learn/deep-learning-with-pytorch-zero-to-gans/lesson/lesson-1-pytorch-basics-and-linear-regression .
